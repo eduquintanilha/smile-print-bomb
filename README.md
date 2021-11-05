@@ -7,7 +7,7 @@ Just a script for print PDF files using Netcat and printers JetDirect service (p
 
 ### We need pdf2ps package, so install ghostscript
 ```bash
-sudo apt-get install ghostscript
+sudo apt-get update && apt-get install ghostscript
 ```
 ### Clone this repository
 ```bash
