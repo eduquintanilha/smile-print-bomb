@@ -17,7 +17,7 @@ git clone https://github.com/eduquintanilha/smile-print-bomb.git
 ```bash
 chmod +x ./smile-print-bomb.sh
 ```
-### Script usage
+### Execute the script! - Usage
 ```bash
-smile-print-bomb.sh ./smile.pdf $PRINTER_IP
+./smile-print-bomb.sh ./smile.pdf $PRINTER_IP
 ```
